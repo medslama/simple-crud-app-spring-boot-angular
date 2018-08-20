@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+bin/
+SimpleCrudAppBackEnd/target/
+SimpleCrudAppBackEnd/.classpath
+SimpleCrudAppBackEnd/.project
+SimpleCrudAppBackEnd/.settings/
+.idea
+*.iws
+*.iml
+*.ipr
